@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhijit Radke</h1>
 <h3 align="center">A passionate Web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijitradke&label=Profile%20views&color=0e75b6&style=flat" width = "100" alt="abhijitradke" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhijitradke&label=Profile%20views&color=0e75b6&style=flat" width = "40px" alt="abhijitradke" /> </p>
 
 - 🌱 I’m currently learning **React js**
 
